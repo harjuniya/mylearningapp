@@ -31,4 +31,35 @@ const addFee = (amount: number): number => amount + 50;
 //console.log(addFee(200));
 
 
+///////////////Remember the difference://////////////
+// Implicit return
+const add = (a: number): number => a + 10;
+
+// Explicit return
+const add2 = (a: number): number => {
+  return a + 10;
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
